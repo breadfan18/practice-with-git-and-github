@@ -4,4 +4,5 @@
 
 This is not a heading at all
 
+## This is another heading
 
